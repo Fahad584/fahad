@@ -24,3 +24,6 @@ C:\Users\ayaan\Desktop\Rock-paper-scissors-game-in-windows-form-main\Rock Paper 
 C:\Users\ayaan\Desktop\Rock-paper-scissors-game-in-windows-form-main\Rock Paper Scissors\obj\Debug\Rock_Paper_Scissors.Form1.resources
 C:\Users\ayaan\Desktop\Rock-paper-scissors-game-in-windows-form-main\Rock Paper Scissors\obj\Debug\Rock_Paper_Scissors.Properties.Resources.resources
 C:\Users\ayaan\Desktop\Rock-paper-scissors-game-in-windows-form-main\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.csproj.GenerateResource.Cache
+C:\Users\ayaan\Documents\GitHub\fahad\fahad\rock paper scisssor\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.exe.config
+C:\Users\ayaan\Documents\GitHub\fahad\fahad\rock paper scisssor\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.exe
+C:\Users\ayaan\Documents\GitHub\fahad\fahad\rock paper scisssor\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.pdb

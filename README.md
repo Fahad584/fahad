@@ -1,4 +1,4 @@
-# Rock paper scissor desktop application in c#
+# Rock paper scissor desktop application in c#.
 Contact us:Email id:
                     fahadbhutta5833@gamil.com
 semester project
